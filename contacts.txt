@@ -1,0 +1,6 @@
+FirstName       LastName        PhoneNum        MobileNum       Group
+=========       ========        ========        =========       =====
+Ali             Helmi           33              22              family
+Hesam           Helmi           55              66              friend
+EmAD            hELMI           34234234        21212           family
+sadfsdf         asdas           34324           3424            family
